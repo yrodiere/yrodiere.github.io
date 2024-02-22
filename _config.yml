@@ -33,3 +33,6 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+plugins:
+  - jekyll-redirect-from
