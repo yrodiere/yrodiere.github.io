@@ -1,3 +1,3 @@
 ---
-redirect_to: ../talks/biography
+redirect_to: /talks/biography
 ---

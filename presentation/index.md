@@ -1,3 +1,3 @@
 ---
-redirect_to: http://www.github.com
+redirect_to: /talks/
 ---
