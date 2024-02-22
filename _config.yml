@@ -25,11 +25,10 @@ github_username:  yrodiere
 # Build settings
 markdown: kramdown
 theme: minima
-gems:
-  - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
 
 plugins:
+  - jekyll-feed
   - jekyll-redirect-from
